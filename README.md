@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="200" src="https://i.ibb.co.com/t48pHZF/my-banner.png" />
+    <img height="200" src="https://www.canva.com/design/DAGbmlZfGmg/n1mJkTmjsVEBTYMbsrdiEw/view?utm_content=DAGbmlZfGmg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc15b56058f" />
 </div>
 
 ###
@@ -63,10 +63,10 @@ projects and make a difference in the dev community.
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"
             height="30" alt="facebook logo" />
     </a>
-    <a href="https://www.instagram.com/_antu_dutta_/" target="_blank">
+    <!-- <a href="https://www.instagram.com/_antu_dutta_/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
             height="30" alt="instagram logo" />
-    </a>
+    </a> -->
     <a href="https://discord.gg/MbGmDAMJ6Q" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
             height="30" alt="discord logo" />
