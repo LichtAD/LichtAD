@@ -4,6 +4,8 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lichtad&label=Profile%20views&color=0e75b6&style=flat" alt="lichtad" /> </p>
+
 # 💫 About Me:
 
 👋 Hi, I'm Antu Dutta! I'm a passionate Software Developer with a love for crafting intuitive, user-friendly
@@ -154,12 +156,8 @@ Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-t
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ###
-<!-- <div align="center">
-    <img src="https://profile-counter.glitch.me/LichtAD/count.svg?" />
-</div> -->
-###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lichtad&label=Profile%20views&color=0e75b6&style=flat" alt="lichtad" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lichtad&label=Profile%20views&color=0e75b6&style=flat" alt="lichtad" /> </p> -->
 
 ###
 
