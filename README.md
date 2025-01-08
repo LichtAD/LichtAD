@@ -183,12 +183,10 @@ Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-t
 </div>
 
 ###
-
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=antu4939"
         alt="Layout with last medium posts" />
-</div>
-
+</div> -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
