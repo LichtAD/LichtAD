@@ -172,11 +172,7 @@ Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-t
 ![](https://github-contributor-stats.vercel.app/api?username=LichtAD&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
-
-<br clear="both">
-
 <!-- <img src="https://raw.githubusercontent.com/LichtAD/LichtAD/output/snake.svg" alt="Snake animation" />-->
-
 ###
 
 <div align="center">
