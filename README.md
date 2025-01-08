@@ -168,6 +168,9 @@ Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-t
         height="150" alt="languages graph" />
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LichtAD&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ###
 
 <br clear="both">
@@ -192,9 +195,6 @@ Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-t
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LichtAD&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LichtAD&icon=0&color=0)](https://visitcount.itsvg.in)
