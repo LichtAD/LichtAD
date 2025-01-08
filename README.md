@@ -154,11 +154,9 @@ Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-t
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ###
-
-<div align="center">
+<!-- <div align="center">
     <img src="https://profile-counter.glitch.me/LichtAD/count.svg?" />
-</div>
-
+</div> -->
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lichtad&label=Profile%20views&color=0e75b6&style=flat" alt="lichtad" /> </p>
