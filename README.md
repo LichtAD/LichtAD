@@ -30,15 +30,14 @@ impactful solutions.
 
 💻 Interests: Developing dynamic web applications, managing databases, and exploring new tools to enhance productivity.
 
-
-🌍 Projects I'm Proud Of
+<!-- 🌍 Projects I'm Proud Of
 
 BPL Dream XI: A React-based fantasy cricket game to build and manage squads.
 
 Peddy - Pet Adoption Platform: Connecting people with their future furry friends.
 
 Gadgets Heaven: An e-commerce platform with cart, wishlist, and discounts.
-Simple-Solar-System: A creative CSS animation project featuring orbital mechanics.
+Simple-Solar-System: A creative CSS animation project featuring orbital mechanics. -->
 
 ⚡ Fun Facts
 
@@ -56,10 +55,10 @@ projects and make a difference in the dev community.
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
             height="30" alt="linkedin logo" />
     </a>
-    <a href="antu4939@gmail.com" target="_blank">
+    <!-- <a href="antu4939@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
             height="30" alt="gmail logo" />
-    </a>
+    </a> -->
     <a href="https://www.facebook.com/antu.ad.1/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"
             height="30" alt="facebook logo" />
