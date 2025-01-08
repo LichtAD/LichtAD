@@ -4,10 +4,49 @@
 
 ###
 
-<h2 align="left">👋 Hi, I’m Antu Dutta!<br>🎓 BSc in CSE from BRAC University | 💻 MERN Stack Developer<br>🌟 Passionate
-    about building dynamic web apps & exploring new tech<br>🎯 Aspiring to become a full stack developer<br>💻
-    Interests: Developing dynamic web applications, managing databases, and exploring new tools to enhance productivity.
-</h2>
+# 💫 About Me:
+
+👋 Hi, I'm Antu Dutta! I'm a passionate Software Developer with a love for crafting intuitive, user-friendly
+applications. With a strong foundation in MERN Stack, I focus on building efficient, scalable, and
+impactful solutions.
+
+<br><br>
+
+🎓 Education: BSc in Computer Science and Engineering from BRAC University.
+
+<br>
+
+🎯 Aspiring to become a full stack developer
+
+<br>
+
+💻 Interests: Developing dynamic web applications, managing databases, and exploring new tools to enhance productivity.
+
+<br><br>
+
+🌍 Projects I’m Proud Of<br>BPL Dream XI: A React-based fantasy cricket game to build and manage squads.
+
+<br>
+
+Peddy - Pet Adoption Platform: Connecting people with their future furry friends.
+
+<br>
+
+Gadgets Heaven: An e-commerce platform with cart, wishlist, and discounts.
+
+<br>
+
+Simple-Solar-System: A creative CSS animation project featuring orbital mechanics.
+
+<br>
+
+⚡ Fun Facts
+
+<br>
+
+I enjoy using React, Tailwind CSS, and modern JavaScript features to bring ideas to life.
+<br>
+Offline gaming enthusiast 🎮 with an interest in optimizing low-end setups.<br>Aspiring to contribute to open-source projects and make a difference in the dev community.
 
 ###
 
