@@ -16,17 +16,20 @@ impactful solutions.
 
 💻 Interests: Developing dynamic web applications, managing databases, and exploring new tools to enhance productivity.
 
-🌍 Projects I'm Proud Of<br>BPL Dream XI: A React-based fantasy cricket game to build and manage squads.
+🌍 Projects I'm Proud Of
+
+BPL Dream XI: A React-based fantasy cricket game to build and manage squads.
 
 Peddy - Pet Adoption Platform: Connecting people with their future furry friends.
+
 Gadgets Heaven: An e-commerce platform with cart, wishlist, and discounts.
 Simple-Solar-System: A creative CSS animation project featuring orbital mechanics.
 
 ⚡ Fun Facts
 
-I enjoy using React, Tailwind CSS, and modern JavaScript features to bring ideas to life.
-<br>
-Offline gaming enthusiast 🎮 with an interest in optimizing low-end setups.<br>Aspiring to contribute to open-source projects and make a difference in the dev community.
+- I enjoy using React, Tailwind CSS, and modern JavaScript features to bring ideas to life.
+
+- Offline gaming enthusiast 🎮 with an interest in optimizing low-end setups.<br>Aspiring to contribute to open-source projects and make a difference in the dev community.
 
 ###
 
