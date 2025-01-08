@@ -166,12 +166,12 @@ projects and make a difference in the dev community.
 <!-- <img src="https://raw.githubusercontent.com/LichtAD/LichtAD/output/snake.svg" alt="Snake animation" />-->
 ###
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://open.spotify.com/user/31bfrln5ptefqafbbgpe72xqijne">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bfrln5ptefqafbbgpe72xqijne&count=2&unique=false"
             alt="Spotify recently played" />
     </a>
-</div>
+</div>-->
 
 ###
 <!-- <div align="center">
