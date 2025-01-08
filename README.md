@@ -161,6 +161,10 @@ Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-t
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lichtad&label=Profile%20views&color=0e75b6&style=flat" alt="lichtad" /> </p>
+
+###
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LichtAD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
         height="150" alt="stats graph" />
