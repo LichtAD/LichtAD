@@ -190,14 +190,10 @@ Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-t
         alt="Layout with last medium posts" />
 </div>
 
-###
-
-✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 
-
-🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LichtAD&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
