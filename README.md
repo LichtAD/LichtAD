@@ -16,7 +16,20 @@ impactful solutions.
 
 🎯 Aspiring to become a full stack developer
 
+🔭 I'm currently working on [Bistro-Boss-Resturant](https://github.com/LichtAD/Bistro-Boss-Resturant)
+
+🌱 I'm currently learning **React**
+
+👨‍💻 All of my projects are available at [https://antu-dutta.netlify.app/](https://antu-dutta.netlify.app/)
+
+💬 Ask me about **Tailwind CSS, Javascript, React, Mongodb**
+
+📫 How to reach me **antu4939@gmail.com**
+
+📄 Know about my experiences [https://drive.google.com/file/d/1_ifKGw4JI9rqomjz1qeDcbzyglVVeTN4/view](https://drive.google.com/file/d/1_ifKGw4JI9rqomjz1qeDcbzyglVVeTN4/view)
+
 💻 Interests: Developing dynamic web applications, managing databases, and exploring new tools to enhance productivity.
+
 
 🌍 Projects I'm Proud Of
 
