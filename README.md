@@ -10,39 +10,19 @@
 applications. With a strong foundation in MERN Stack, I focus on building efficient, scalable, and
 impactful solutions.
 
-<br><br>
-
 🎓 Education: BSc in Computer Science and Engineering from BRAC University.
-
-<br>
 
 🎯 Aspiring to become a full stack developer
 
-<br>
-
 💻 Interests: Developing dynamic web applications, managing databases, and exploring new tools to enhance productivity.
 
-<br><br>
-
-🌍 Projects I’m Proud Of<br>BPL Dream XI: A React-based fantasy cricket game to build and manage squads.
-
-<br>
+🌍 Projects I'm Proud Of<br>BPL Dream XI: A React-based fantasy cricket game to build and manage squads.
 
 Peddy - Pet Adoption Platform: Connecting people with their future furry friends.
-
-<br>
-
 Gadgets Heaven: An e-commerce platform with cart, wishlist, and discounts.
-
-<br>
-
 Simple-Solar-System: A creative CSS animation project featuring orbital mechanics.
 
-<br>
-
 ⚡ Fun Facts
-
-<br>
 
 I enjoy using React, Tailwind CSS, and modern JavaScript features to bring ideas to life.
 <br>
